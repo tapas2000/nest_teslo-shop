@@ -38,4 +38,6 @@ export class CreateProductDto {
   })
   @IsOptional()
   tags: string[];
+  @IsOptional()
+  images: string[];
 }

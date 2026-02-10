@@ -41,6 +41,11 @@ yarn start:dev
 ```
 The API will be available at `http://localhost:3000` by default.
 
+### 5. Populate database
+```bash
+http://localhost:3000/seed
+```
+
 ## Useful Scripts
 
 - **Start in development:**
