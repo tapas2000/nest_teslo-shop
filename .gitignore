@@ -5,6 +5,9 @@
 
 postgres-data/
 
+static/products/*.jpg
+static/products/*.jpeg
+
 # Logs
 logs
 *.log
